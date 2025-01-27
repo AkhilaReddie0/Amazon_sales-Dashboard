@@ -14,7 +14,9 @@ Sum of Amount: The total sales amount is $75 million.
 
 Category-wise Sales Distribution:
    Topwear (Blouse, Saree, Top, Western Dress) constitutes 77.07% of the total sales.
+   
    Bottomwear (Bottom, Dupatta, Kurta Set, Ethnic Dress) makes up 14.1% of the sales.
+   
    Other categories (Saree, Dupatta) account for 0.58% of the sales.
    
 Promotion Impact: 60,000 promotions were used, with 61,000 promotion IDs associated. This indicates that some promotions might have been used multiple times.
